@@ -98,3 +98,132 @@
     left: 120%;
     top: 1%;
 }
+
+.chessboard div:nth-child(9) span {
+    position: absolute;
+    right: 120%;
+    top: 1%;
+}
+
+.chessboard div:nth-child(16) span {
+    position: absolute;
+    left: 120%;
+    top: 1%;
+}
+
+.chessboard div:nth-child(17) span {
+    position: absolute;
+    right: 120%;
+    top: 1%;
+}
+
+.chessboard div:nth-child(24) span {
+    position: absolute;
+    left: 120%;
+    top: 1%;
+}
+
+.chessboard div:nth-child(25) span {
+    position: absolute;
+    right: 120%;
+    top: 1%;
+}
+
+.chessboard div:nth-child(32) span {
+    position: absolute;
+    left: 120%;
+    top: 1%;
+}
+
+.chessboard div:nth-child(33) span {
+    position: absolute;
+    right: 120%;
+    top: 1%;
+}
+
+.chessboard div:nth-child(40) span {
+    position: absolute;
+    left: 120%;
+    top: 1%;
+}
+
+.chessboard div:nth-child(41) span {
+    position: absolute;
+    right: 120%;
+    top: 1%;
+}
+
+.chessboard div:nth-child(48) span {
+    position: absolute;
+    left: 120%;
+    top: 1%;
+}
+
+.chessboard div:nth-child(49) span {
+    position: absolute;
+    right: 120%;
+    top: 1%;
+}
+
+.chessboard div:nth-child(56) span {
+    position: absolute;
+    left: 120%;
+    top: 1%;
+}
+
+.chessboard div:nth-child(57) span:nth-child(1) {
+    position: absolute;
+    right: 120%;
+    top: 10%;
+}
+
+.chessboard div:nth-child(57) span:nth-child(2) {
+    position: absolute;
+    top: 100%;
+    right: 40%;
+}
+
+.chessboard div:nth-child(58) span {
+    position: absolute;
+    top: 100%;
+    right: 40%;
+}
+
+.chessboard div:nth-child(59) span {
+    position: absolute;
+    top: 100%;
+    right: 40%;
+}
+.chessboard div:nth-child(60) span {
+    position: absolute;
+    top: 100%;
+    right: 40%;
+}
+.chessboard div:nth-child(61) span {
+    position: absolute;
+    top: 100%;
+    right: 40%;
+}
+.chessboard div:nth-child(62) span {
+    position: absolute;
+    top: 100%;
+    right: 40%;
+}
+
+.chessboard div:nth-child(63) span {
+    position: absolute;
+    top: 100%;
+    right: 40%;
+}
+
+.chessboard div:nth-child(64) span {
+    position: absolute;
+    top: 100%;
+    right: 40%;
+}
+
+.chessboard div:nth-child(64) span:nth-child(1) {
+    position: absolute;
+    left: 120%;
+    top: 1%;
+}
