@@ -1,8 +1,14 @@
+
+
 .chessboard {
     width: 640px;
     height: 640px;
     margin: 20px;
     border: 5px solid rgb(27, 19, 19);
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 .black {
@@ -14,6 +20,7 @@
     text-align:center;
     display: table-cell;
     vertical-align:middle;
+
 }
 
 .brown {
@@ -25,4 +32,69 @@
     text-align:center;
     display: table-cell;
     vertical-align:middle;
+    
+}
+
+.chessboard div {
+    position:relative;
+  }
+
+.chessboard div:nth-child(1) span:nth-child(1) {
+    position: absolute;
+    right: 120%;
+    top: 1%;
+}
+
+.chessboard div:nth-child(1) span:nth-child(2) {
+    position: absolute;
+    top: -70%;
+    right: 40%;
+}
+
+.chessboard div:nth-child(2) span {
+    position: absolute;
+    top: -70%;
+    right: 40%;
+}
+
+.chessboard div:nth-child(3) span {
+    position: absolute;
+    top: -70%;
+    right: 40%;
+}
+
+.chessboard div:nth-child(4) span {
+    position: absolute;
+    top: -70%;
+    right: 40%;
+}
+
+.chessboard div:nth-child(5) span {
+    position: absolute;
+    top: -70%;
+    right: 40%;
+}
+
+.chessboard div:nth-child(6) span {
+    position: absolute;
+    top: -70%;
+    right: 40%;
+}
+
+.chessboard div:nth-child(7) span {
+    position: absolute;
+    top: -70%;
+    right: 40%;
+}
+
+.chessboard div:nth-child(8) span {
+    position: absolute;
+    top: -70%;
+    right: 40%;
+}
+
+.chessboard div:nth-child(8) span:nth-child(1) {
+    position: absolute;
+    left: 120%;
+    top: 1%;
 }
